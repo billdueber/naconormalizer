@@ -44,8 +44,9 @@ Or install it yourself as:
 
 # Changes
 
-__v0.9 2013-12-06__
-* First release
+__v0.9.0 2013-12-06__
+
+* First public release
 
 ## Contributing
 
