@@ -1,0 +1,6 @@
+--no-private
+--hide-void-return
+--exclude /vendor/
+--charset utf-8
+--markup=markdown
+-M kramdown
