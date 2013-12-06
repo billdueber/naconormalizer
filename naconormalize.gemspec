@@ -11,8 +11,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["bill@dueber.com"]
   spec.description   = %q{Apply NACO normaliation to a string. This is just a tiny wrapper around code taken from https://code.google.com/p/oclcNacoNormalizerr/}
   spec.summary       = %q{Apply NACO normaliation to a string}
-  spec.homepage      = ""
-  spec.license       = "MIT"
+  spec.homepage      = "https://github.com/billdueber/naconormalizer"
+  spec.license       = "Apache 2.0"
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }

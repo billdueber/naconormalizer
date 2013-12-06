@@ -44,6 +44,10 @@ Or install it yourself as:
 
 # Changes
 
+__v0.9.1 2013-12-06__
+
+* Fixed issues with the gemspec re: homepage and license
+
 __v0.9.0 2013-12-06__
 
 * First public release
