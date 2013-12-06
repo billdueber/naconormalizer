@@ -43,6 +43,10 @@ Or install it yourself as:
 
 
 # Changes
+__v0.9.2 2013-12-06__
+
+* Use the updated 2007 normalization code
+* Simplify interface to only expose most common use case
 
 __v0.9.1 2013-12-06__
 
