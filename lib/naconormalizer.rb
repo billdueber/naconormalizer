@@ -1,6 +1,6 @@
 require 'java'
 require "naconormalizer/version"
-require_relative "../vendor/oclcNacoNormalizer.jar"
+require_relative "../vendor/oclcnaconormalizer.jar"
 
 
 # A tiny shim around the OCLC's java code that performs NACO normalization,
